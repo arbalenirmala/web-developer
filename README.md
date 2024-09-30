@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @weber
-- 👀 I’m interested in learning javaScript Frameworks
-- 🌱 I’m currently learning Vue
+- 👋 Hi, I’m @nirmala
+- 👀 I’m interested in learning javaScript , Typescript, Javascript Frameworks , Javascript Libraries 
+- 🌱 I’m currently learning Vue and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
